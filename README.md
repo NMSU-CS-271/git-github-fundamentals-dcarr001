@@ -109,3 +109,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+**I have learned what a README file is and how to access one. I have also learned how to clone a repository and how to get my code to run. I am still confused as to what commiting, pushing, and pulling are and what their purpose is. I also have no idea what the steps are to complete an assignment and I hope I can figure it out!**
